@@ -1,1 +1,1 @@
-The js adn css use wsdjkl however i replaced it with abcdefg for my own sanity. The tutor prefered wsdjkl keys hence i started it with those but changed it later.
+The js and css use wsdjkl keys however I replaced it with abcdefg keys for my own sanity. The tutor prefered wsdjkl keys hence i started it with those but changed it later on. Used the concepts of switch statements and anonymous functions in this project. improved my take on color theory as well
